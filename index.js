@@ -1,2 +1,2 @@
 console.log("Nihil")
-console.log("Lutfi Ganteng ya bro")
+console.log("Nisrin itu cantik nggaknya?")
