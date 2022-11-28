@@ -1,1 +1,1 @@
-consolw.log("Nihil")
+console.log("Nihil")
